@@ -1,0 +1,35 @@
+/*Digital Clock Project*/
+html{
+    font-size: 62.5%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elements{
+    background-color: #00162f;
+    box-shadow: 1px 3px 29px -8px rgba(0,0,0,0.73);
+    color: #f0f8ff;
+    padding: 3.6rem;
+    border-radius: 1.8rem;
+    margin-right: 2.5rem;
+    font-size: 5.8rem;
+    text-align: center;
+}
+.legend{
+    text-align: center;
+    font-size: 1.1rem;
+    letter-spacing: .4rem;
+}
