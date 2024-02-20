@@ -2,7 +2,7 @@
 ![Captura de tela 2024-02-01 194025](https://github.com/MuriloSegger/Relogio_Digital/assets/140568760/b344b0fc-81a8-4653-b830-46d858d6f33a)
 
 <h1>Relógio Digital</h1>
-  <p>Este projeto foi desenvolvido com o intuito de aprender e entender novos comandos em JavaScript!</p>
+  <p>O propósito fundamental deste projeto foi explorar novos comandos em JavaScript, buscando aprimorar competências e expandir horizontes na linguagem.</p>
 <h2><strong>Tecnologias Utilizadas</strong></h2>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
